@@ -1,0 +1,21 @@
+{
+  "name": "courseinfo",
+  "version": "0.0.1",
+  "description": "Simple mean stack application for managing unisa course information",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ossewawiel"
+  },
+  "keywords": [
+    "MongoDB",
+    "Express",
+    "AngularJS",
+    "Node.js"
+  ],
+  "author": "Marsel Pretorius",
+  "license": "MIT"
+}
